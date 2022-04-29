@@ -1,7 +1,6 @@
-17 y/o idiot (6 months left!) trying to win at games n make code work
+goof person trying to win at games n make code work
 
-I have touched vrchat modding (lol i know right) and make discord plugins for [Aliucord](https://github.com/Aliucord/Aliucord)... [like these](../../../AliuPlugins)
-
+I mod discord and vrchat
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItzOnlyAnimal&theme=material-palenight&count_private=true&hide_rank=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItzOnlyAnimal&count_private=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" />
 &nbsp; </a>
